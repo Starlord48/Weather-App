@@ -93,6 +93,6 @@ body{
 }
 @media screen and (max-width: 400px) {
     .search input {
-        width: 70%;
+        width: 40%;
     }
 }
